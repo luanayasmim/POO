@@ -1,0 +1,13 @@
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\bin\Debug\netcoreapp3.1\Consultorio.exe
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\bin\Debug\netcoreapp3.1\Consultorio.deps.json
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\bin\Debug\netcoreapp3.1\Consultorio.runtimeconfig.json
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\bin\Debug\netcoreapp3.1\Consultorio.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\bin\Debug\netcoreapp3.1\Consultorio.dll
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\bin\Debug\netcoreapp3.1\Consultorio.pdb
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\obj\Debug\netcoreapp3.1\Consultorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\obj\Debug\netcoreapp3.1\Consultorio.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\obj\Debug\netcoreapp3.1\Consultorio.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\obj\Debug\netcoreapp3.1\Consultorio.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\obj\Debug\netcoreapp3.1\Consultorio.dll
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\obj\Debug\netcoreapp3.1\Consultorio.pdb
+C:\Users\lylourenco\source\repos\bytebank\Consultorio\obj\Debug\netcoreapp3.1\Consultorio.genruntimeconfig.cache

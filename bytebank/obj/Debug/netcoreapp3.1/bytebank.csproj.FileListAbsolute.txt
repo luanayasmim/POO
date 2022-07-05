@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\bytebank\bytebank\bin\Debug\netcoreapp3.1\bytebank.exe
+C:\Users\lylourenco\source\repos\bytebank\bytebank\bin\Debug\netcoreapp3.1\bytebank.deps.json
+C:\Users\lylourenco\source\repos\bytebank\bytebank\bin\Debug\netcoreapp3.1\bytebank.runtimeconfig.json
+C:\Users\lylourenco\source\repos\bytebank\bytebank\bin\Debug\netcoreapp3.1\bytebank.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\bytebank\bytebank\bin\Debug\netcoreapp3.1\bytebank.dll
+C:\Users\lylourenco\source\repos\bytebank\bytebank\bin\Debug\netcoreapp3.1\bytebank.pdb
+C:\Users\lylourenco\source\repos\bytebank\bytebank\obj\Debug\netcoreapp3.1\bytebank.csproj.AssemblyReference.cache
+C:\Users\lylourenco\source\repos\bytebank\bytebank\obj\Debug\netcoreapp3.1\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\bytebank\bytebank\obj\Debug\netcoreapp3.1\bytebank.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\bytebank\obj\Debug\netcoreapp3.1\bytebank.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\bytebank\bytebank\obj\Debug\netcoreapp3.1\bytebank.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\bytebank\obj\Debug\netcoreapp3.1\bytebank.dll
+C:\Users\lylourenco\source\repos\bytebank\bytebank\obj\Debug\netcoreapp3.1\bytebank.pdb
+C:\Users\lylourenco\source\repos\bytebank\bytebank\obj\Debug\netcoreapp3.1\bytebank.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.exe
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.deps.json
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.runtimeconfig.json
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.dll
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\bin\Debug\netcoreapp3.1\Mercadinho.pdb
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.dll
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.pdb
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.genruntimeconfig.cache
+C:\Users\lylourenco\source\repos\bytebank\Mercadinho\obj\Debug\netcoreapp3.1\Mercadinho.csproj.AssemblyReference.cache
