@@ -1,0 +1,13 @@
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\bin\Debug\netcoreapp3.1\CalculatorClasses.exe
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\bin\Debug\netcoreapp3.1\CalculatorClasses.deps.json
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\bin\Debug\netcoreapp3.1\CalculatorClasses.runtimeconfig.json
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\bin\Debug\netcoreapp3.1\CalculatorClasses.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\bin\Debug\netcoreapp3.1\CalculatorClasses.dll
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\bin\Debug\netcoreapp3.1\CalculatorClasses.pdb
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\obj\Debug\netcoreapp3.1\CalculatorClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\obj\Debug\netcoreapp3.1\CalculatorClasses.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\obj\Debug\netcoreapp3.1\CalculatorClasses.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\obj\Debug\netcoreapp3.1\CalculatorClasses.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\obj\Debug\netcoreapp3.1\CalculatorClasses.dll
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\obj\Debug\netcoreapp3.1\CalculatorClasses.pdb
+C:\Users\lylourenco\source\repos\bytebank\CalculatorClasses\obj\Debug\netcoreapp3.1\CalculatorClasses.genruntimeconfig.cache
