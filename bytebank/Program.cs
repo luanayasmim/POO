@@ -1,5 +1,6 @@
 ﻿using System;
 using bytebank;
+using bytebank.Titular;
 
 namespace bytebank
 {
@@ -82,21 +83,25 @@ namespace bytebank
             Console.WriteLine($@"Conta 2: R${String.Format("{0:0.00}", conta2.saldo)}");
             */
 
-            Titular.Cliente cliente1 = new Titular.Cliente();
+            /*Titular.Cliente cliente1 = new Titular.Cliente();
             cliente1.nome = "Luana";
             cliente1.cpf = "12345678987";
-            cliente1.profissao = "Garota de Programa";
+            cliente1.profissao = "Garota de Programa";*/
 
             ContaCorrente conta1 = new ContaCorrente();
-            conta1.titular = cliente1;
+            conta1.titular = new Cliente();
+            conta1.titular.nome = "Luana Yasmim";
+            conta1.titular.cpf = "12345678987";
+            conta1.titular.profissao = "Garota de Programa";
             conta1.conta = "12345-y";
             conta1.numeroAgencia = 20;
             conta1.nomeAgencia = "CentralByte";
             conta1.saldo = 0.00;
             conta1.ativo = true;
 
-            Console.WriteLine(cliente1.nome);
+            //Console.WriteLine(cliente1.nome);
             Console.WriteLine(conta1.titular.nome);
+
 
 
             Console.ReadKey();
