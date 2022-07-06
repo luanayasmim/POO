@@ -10,6 +10,24 @@ namespace bytebank
         {
             Console.WriteLine("Bem vindo(a) ao banco ByteBank!");
 
+            Cliente luana = new Cliente();
+            luana.Nome = "Luana Yasmim";
+            ContaCorrente conta1 = new ContaCorrente(123, "09876-x");
+            conta1.Saldo = 100;
+            conta1.Titular = luana;
+            Console.WriteLine(conta1.Titular.Nome);
+            Console.WriteLine(conta1.Saldo);
+            Console.WriteLine(conta1.NumeroAgencia);
+            Console.WriteLine(conta1.Conta);
+
+            ContaCorrente conta2 = new ContaCorrente(321, "45678-l");
+
+            ContaCorrente conta3 = new ContaCorrente(987, "87654-y");
+
+            Console.WriteLine(ContaCorrente.TotalContasCriadas);
+
+            Console.ReadKey();
+
             /*
             //Definição da variável 
              ContaCorrente conta1 = new ContaCorrente();
@@ -88,23 +106,29 @@ namespace bytebank
             cliente1.cpf = "12345678987";
             cliente1.profissao = "Garota de Programa";*/
 
-            ContaCorrente conta1 = new ContaCorrente();
+            /*ContaCorrente conta1 = new ContaCorrente();
             conta1.titular = new Cliente();
             conta1.titular.nome = "Luana Yasmim";
             conta1.titular.cpf = "12345678987";
             conta1.titular.profissao = "Garota de Programa";
+            Cliente luana = new Cliente();
+            conta1.Titular=luana;
             conta1.conta = "12345-y";
             conta1.numeroAgencia = 20;
             conta1.nomeAgencia = "CentralByte";
-            conta1.saldo = 0.00;
+            //conta1.saldo = 0.00;
             conta1.ativo = true;
 
-            //Console.WriteLine(cliente1.nome);
+            //Definindo o saldo a partir de um metódo 
+            conta1.Saldo=1500;
+
+            Console.WriteLine(cliente1.nome);
             Console.WriteLine(conta1.titular.nome);
+            Console.WriteLine($"Saldo: {conta1.Saldo}");*/
 
 
 
-            Console.ReadKey();
+
         }
     }
 }
