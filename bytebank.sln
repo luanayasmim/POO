@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mercadinho", "Mercadinho\Me
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consultorio", "Consultorio\Consultorio.csproj", "{DEC495D9-0511-48CF-92B1-5A7CA818A966}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood", "FastFood\FastFood.csproj", "{82B5EE7F-6291-4ECC-AAD7-BF2213A2DB4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FastFood", "FastFood\FastFood.csproj", "{82B5EE7F-6291-4ECC-AAD7-BF2213A2DB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bytebank_adm", "bytebank_adm\bytebank_adm.csproj", "{0DC575F3-646E-43A7-B7C8-E42B453B6799}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{82B5EE7F-6291-4ECC-AAD7-BF2213A2DB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82B5EE7F-6291-4ECC-AAD7-BF2213A2DB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82B5EE7F-6291-4ECC-AAD7-BF2213A2DB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC575F3-646E-43A7-B7C8-E42B453B6799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC575F3-646E-43A7-B7C8-E42B453B6799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC575F3-646E-43A7-B7C8-E42B453B6799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC575F3-646E-43A7-B7C8-E42B453B6799}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,9 +12,11 @@ namespace bytebank
 
             Cliente luana = new Cliente();
             luana.Nome = "Luana Yasmim";
-            ContaCorrente conta1 = new ContaCorrente(123, "09876-x");
-            conta1.Saldo = 100;
-            conta1.Titular = luana;
+            ContaCorrente conta1 = new ContaCorrente(123, "09876-x")
+            {
+                Saldo = 100,
+                Titular = luana
+            };
             Console.WriteLine(conta1.Titular.Nome);
             Console.WriteLine(conta1.Saldo);
             Console.WriteLine(conta1.NumeroAgencia);

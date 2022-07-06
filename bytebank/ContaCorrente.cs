@@ -23,9 +23,9 @@ namespace bytebank
             }
             set
             {
-                if (value == null)
+                /*if (value == null)
                     return;
-                else
+                else*/
                     _conta = value;
             }
 
