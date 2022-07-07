@@ -13,10 +13,10 @@ namespace bytebank_adm.Utilitarios
         {
             this.totalBonificacao += funcionario.getBonificacao();
         }
-        public void Registrar(Diretor funcionario)
+        /*public void Registrar(Diretor funcionario)
         {
             this.totalBonificacao += funcionario.getBonificacao();
-        }
+        }*/
         public double getBonificacao()
         {
             return this.totalBonificacao;
