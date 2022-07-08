@@ -4,8 +4,22 @@ using System.Text;
 
 namespace bytebank_adm.Funcionarios
 {
-    public class Diretor:Funcionario
+    public class Diretor : FuncionarioAutenticavel
     {
+        public Diretor(string cpf) : base(5000, cpf)
+        {
+            Console.WriteLine("Criando DIRETOR");
+        }
+
+        public override void AumentarSalario()
+        {
+            this.Salario *= 1.15;
+        }
+
+        public override double GetBonificacao()
+        {
+            return this.Salario * 0.5;
+        }
         /*private string _nome;
         private string _cpf;
         private double _salario;
@@ -16,18 +30,6 @@ namespace bytebank_adm.Funcionarios
         public double Salario { get => _salario; set => _salario = value; }*/
 
         //Override - Define que é uma reescrita do metódo declarado na classe base (funcionário)
-        public override double getBonificacao()
-        {
-            return Salario * 0.5;
-        }
 
-        public Diretor(string cpf):base(cpf, 5000)
-        {
-            Console.WriteLine("Diretor criado!");
-        }
-        public override void AumentarSalario()
-        {
-            this.Salario *= 1.5;
-        }
     }
 }

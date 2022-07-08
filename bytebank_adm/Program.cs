@@ -1,5 +1,6 @@
 ﻿using System;
 using bytebank_adm.Funcionarios;
+using bytebank_adm.SistemaInterno;
 using bytebank_adm.Utilitarios;
 
 namespace bytebank_adm
@@ -10,76 +11,108 @@ namespace bytebank_adm
         {
             Console.WriteLine("BYTEBANK ADMINISTRAÇÃO");
 
-            void CalcularBonificacao()
-            {
-                GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+            Console.WriteLine("### Usando o sistema ###");
+            UsarSistema();
 
-                Contador yasmim = new Contador("1234567890");
-                yasmim.Nome = "Yasmim";
+            Console.WriteLine("\n");
 
-                Diretor luana = new Diretor("123456789");
-                luana.Nome = "Luana";
-
-                Funcionario ricardo = new Diretor("123456789-p");
-                ricardo.Nome = "Ricardo";
-
-                gerenciador.Registrar(yasmim);
-                gerenciador.Registrar(luana);
-                gerenciador.Registrar(ricardo);
-
-
-                Console.WriteLine($"Novo salário da Yasmim: {yasmim.Salario}");
-                Console.WriteLine($"Novo salário da Luana: {luana.Salario}");
-                Console.WriteLine($"Novo salário da Ricardo: {ricardo.Salario}");
-
-                Console.WriteLine();
-
-                Console.WriteLine($"A empresa tem {Funcionario.TotalFuncionarios} funcionários!");
-            }
-
+            Console.WriteLine("### Calculando Bonificação ###");
             CalcularBonificacao();
 
-           /*GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+            Console.ReadKey();
 
-            double totalBonificacao;
+            static void UsarSistema()
+            {
+                SistemaInterno sistemaInterno = new SistemaInterno();
 
-            Funcionario yasmim = new Funcionario("1234567890", 1000);
-            yasmim.Nome = "Yasmim";
-            //yasmim.Cpf = ;
-            //yasmim.Salario = 1000;
-            yasmim.AumentarSalario();
-            Console.WriteLine($"Novo salário da Yasmim: {yasmim.Salario}");
+                Diretor samya = new Diretor("159.753.398-04");
+                samya.Nome = "Sâmya";
+                samya.Senha = "asd";
 
-            //Conferindo funcionários cadastrados na empresa
-            Console.WriteLine($"A empresa tem {Funcionario.TotalFuncionarios} funcionários!");
+                GerenteDeConta brenda = new GerenteDeConta("326.985.628-89");
+                brenda.Nome = "Brenda";
+                brenda.Senha = "qwe";
+
+                ParceiroComercial parceiro = new ParceiroComercial();
+                parceiro.Senha = "123456";
+
+                sistemaInterno.Logar(parceiro, "123456");
+
+                sistemaInterno.Logar(samya, "asd");
+                sistemaInterno.Logar(brenda, "qwe");
+            }
 
 
-            Diretor luana = new Diretor("123456789");
-            luana.Nome = "Luana";
-            //luana.Cpf = "123456789";
-            //luana.Salario = 2000;
-            luana.AumentarSalario();
-            Console.WriteLine($"Novo salário da Luana: {luana.Salario}");
+            static void CalcularBonificacao()
+            {
+                GerenciadorDeBonificacao gerenciadorBonificacao = new GerenciadorDeBonificacao();
 
-            //Conferindo funcionários cadastrados na empresa
-            Console.WriteLine($"A empresa tem {Funcionario.TotalFuncionarios} funcionários!");
+                Funcionario pedro = new Designer("833.222.048-39");
+                pedro.Nome = "Pedro";
 
-            gerenciador.Registrar(yasmim);
-            gerenciador.Registrar(luana);
+                Funcionario roberta = new Diretor("159.753.398-04");
+                roberta.Nome = "Roberta";
 
-            Console.WriteLine($"Bonificação: {yasmim.getBonificacao()}");
-            Console.WriteLine($"Bonificação: {luana.getBonificacao()}");
+                Funcionario igor = new Auxiliar("981.198.778-53");
+                igor.Nome = "Igor";
 
-            totalBonificacao = luana.getBonificacao();
-            totalBonificacao += yasmim.getBonificacao();
+                Funcionario camila = new GerenteDeConta("326.985.628-89");
+                camila.Nome = "Camila";
 
-            Console.WriteLine("Total do Bonificações: " + gerenciador.getBonificacao());
+                Desenvolvedor guilherme = new Desenvolvedor("456.175.468-20");
+                guilherme.Nome = "Guilherme";
 
-            Funcionario ricardo = new Diretor("123456789-p");
-            ricardo.Nome = "Ricardo";
-            Console.WriteLine(ricardo.Nome);
-            //Conferindo funcionários cadastrados na empresa
-            Console.WriteLine($"A empresa tem {Funcionario.TotalFuncionarios} funcionários!");*/
+                gerenciadorBonificacao.Registrar(guilherme);
+                gerenciadorBonificacao.Registrar(pedro);
+                gerenciadorBonificacao.Registrar(roberta);
+                gerenciadorBonificacao.Registrar(igor);
+                gerenciadorBonificacao.Registrar(camila);
+
+                Console.WriteLine("Total de bonificações do mês " +
+                    gerenciadorBonificacao.GetTotalBonificacao());
+            }
+
+            /*GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+
+             double totalBonificacao;
+
+             Funcionario yasmim = new Funcionario("1234567890", 1000);
+             yasmim.Nome = "Yasmim";
+             //yasmim.Cpf = ;
+             //yasmim.Salario = 1000;
+             yasmim.AumentarSalario();
+             Console.WriteLine($"Novo salário da Yasmim: {yasmim.Salario}");
+
+             //Conferindo funcionários cadastrados na empresa
+             Console.WriteLine($"A empresa tem {Funcionario.TotalFuncionarios} funcionários!");
+
+
+             Diretor luana = new Diretor("123456789");
+             luana.Nome = "Luana";
+             //luana.Cpf = "123456789";
+             //luana.Salario = 2000;
+             luana.AumentarSalario();
+             Console.WriteLine($"Novo salário da Luana: {luana.Salario}");
+
+             //Conferindo funcionários cadastrados na empresa
+             Console.WriteLine($"A empresa tem {Funcionario.TotalFuncionarios} funcionários!");
+
+             gerenciador.Registrar(yasmim);
+             gerenciador.Registrar(luana);
+
+             Console.WriteLine($"Bonificação: {yasmim.getBonificacao()}");
+             Console.WriteLine($"Bonificação: {luana.getBonificacao()}");
+
+             totalBonificacao = luana.getBonificacao();
+             totalBonificacao += yasmim.getBonificacao();
+
+             Console.WriteLine("Total do Bonificações: " + gerenciador.getBonificacao());
+
+             Funcionario ricardo = new Diretor("123456789-p");
+             ricardo.Nome = "Ricardo";
+             Console.WriteLine(ricardo.Nome);
+             //Conferindo funcionários cadastrados na empresa
+             Console.WriteLine($"A empresa tem {Funcionario.TotalFuncionarios} funcionários!");*/
         }
     }
 }
