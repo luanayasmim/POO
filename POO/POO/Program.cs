@@ -8,25 +8,17 @@ namespace POO
         {
             //Caneta 1
             Console.WriteLine("Caneta 1");
-            Caneta c1 = new Caneta();
-            c1.modelo = "FaberCastell";
-            c1.cor = "Preta";
-            c1.ponta = 0.5;
-            c1.tampada = false;
-            c1.Tampar();
-            //c1.Destampar();
+            Caneta c1 = new Caneta("FaberCastell", "Preta", 0.5);
             c1.Status();
             c1.Rabiscar();
 
             //Caneta 2
             Console.WriteLine("Caneta 2");
-            Caneta c2 = new Caneta();
-            c2.modelo = "Bic";
-            c2.cor = "Azul";
-            c2.ponta = 0.5;
-            c2.tampada = false;
+            Caneta c2 = new Caneta("Bic", "Azul", 0.5);
+            c2.setPonta(0.2);
+            //c2.tampada = false;
             //c2.Tampar();
-            c2.Destampar();
+            // c2.Destampar();
             c2.Status();
             c2.Rabiscar();
 

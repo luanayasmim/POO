@@ -9,16 +9,47 @@ namespace POO
         //Definindo Atributos da Caneta
         public string modelo;
         public string cor;
-        public double ponta;
-        public int carga;
-        public bool tampada;
+        private double ponta;
+        protected int carga;
+        protected bool tampada;
 
-        //Definindo metódos
+        //Métodos Especiais
+
+        //Método Construtor
+        public Caneta(string modelo, string cor, double ponta)
+        {
+            this.Tampar();
+            this.modelo = modelo;
+            this.cor = "Azul";
+            this.ponta = ponta;
+        }
+        //Getter
+        public String getModelo()
+        {
+            return this.modelo;
+        }
+        public double getPonta()
+        {
+            return this.ponta;
+        }
+
+        //Setter
+        public void setModelo(string modelo)
+        {
+            //O this é usado para se referenciar a algum atributo ou metódo da Classe
+            this.modelo = modelo;
+        }
+        public void setPonta(double ponta)
+        {
+            this.ponta = ponta;
+        }
+
+        //Definindo métodos
         public void Status()
         {
-            Console.WriteLine("Modelo: "+this.modelo);
+            Console.WriteLine("Modelo: "+this.getModelo());
             Console.WriteLine("Uma caneta "+this.cor);
-            Console.WriteLine("Ponta: "+this.ponta);
+            Console.WriteLine("Ponta: " + this.getPonta());
             Console.WriteLine("Carga: "+this.carga);
             Console.WriteLine("Está tampada? " + this.tampada);
         }
@@ -34,11 +65,11 @@ namespace POO
             }
 
         }
-        public void Tampar()
+        protected void Tampar()
         {
             this.tampada = true;
         }
-        public void Destampar()
+        protected void Destampar()
         {
             this.tampada = false;
         }

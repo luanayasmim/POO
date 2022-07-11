@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lylourenco\\source\\repos\\bytebank\\POO\\POO\\POO.csproj",
-      "projectName": "POO",
-      "projectPath": "C:\\Users\\lylourenco\\source\\repos\\bytebank\\POO\\POO\\POO.csproj",
+      "projectUniqueName": "C:\\Users\\lylourenco\\source\\repos\\bytebank\\POO\\banco\\banco.csproj",
+      "projectName": "banco",
+      "projectPath": "C:\\Users\\lylourenco\\source\\repos\\bytebank\\POO\\banco\\banco.csproj",
       "packagesPath": "C:\\Users\\lylourenco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lylourenco\\source\\repos\\bytebank\\POO\\POO\\obj\\",
+      "outputPath": "C:\\Users\\lylourenco\\source\\repos\\bytebank\\POO\\banco\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lylourenco\\AppData\\Roaming\\NuGet\\NuGet.Config",
