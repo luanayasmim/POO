@@ -4,7 +4,7 @@ using System.Text;
 
 namespace POO
 {
-    public class Controle
+    public class Controle 
     {
         //Atributos
         private int volume;
@@ -45,6 +45,21 @@ namespace POO
         private void setTocando(bool tocando)
         {
             this.tocando = tocando;
+        }
+
+        public void abrirMenu()
+        {
+            Console.WriteLine(getLigado());
+            Console.WriteLine(getVolume());
+            for(int i = 0; i < getVolume(); i+=10)
+            {
+                Console.WriteLine("|");
+            }
+            Console.WriteLine("Tocando....");
+        }
+        public void fecharMenu()
+        {
+            Console.WriteLine("Fechando o Menu (;");
         }
     }
 }
