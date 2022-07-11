@@ -1,7 +1,7 @@
 ﻿using System;
 using bytebank_adm.Funcionarios;
-using bytebank_adm.SistemaInterno;
 using bytebank_adm.Utilitarios;
+using bytebank_adm.SistemaInterno.SistemaInterno;
 
 namespace bytebank_adm
 {
@@ -45,7 +45,7 @@ namespace bytebank_adm
 
             static void CalcularBonificacao()
             {
-                GerenciadorDeBonificacao gerenciadorBonificacao = new GerenciadorDeBonificacao();
+                GerenciadorBonificacao gerenciadorBonificacao = new GerenciadorBonificacao();
 
                 Funcionario pedro = new Designer("833.222.048-39");
                 pedro.Nome = "Pedro";

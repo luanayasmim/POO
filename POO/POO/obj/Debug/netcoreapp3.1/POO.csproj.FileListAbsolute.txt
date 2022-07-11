@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\POO\POO\bin\Debug\netcoreapp3.1\POO.exe
+C:\Users\lylourenco\source\repos\POO\POO\bin\Debug\netcoreapp3.1\POO.deps.json
+C:\Users\lylourenco\source\repos\POO\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.json
+C:\Users\lylourenco\source\repos\POO\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\POO\POO\bin\Debug\netcoreapp3.1\POO.dll
+C:\Users\lylourenco\source\repos\POO\POO\bin\Debug\netcoreapp3.1\POO.pdb
+C:\Users\lylourenco\source\repos\POO\POO\obj\Debug\netcoreapp3.1\POO.csproj.AssemblyReference.cache
+C:\Users\lylourenco\source\repos\POO\POO\obj\Debug\netcoreapp3.1\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\POO\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\POO\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\POO\POO\obj\Debug\netcoreapp3.1\POO.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\POO\POO\obj\Debug\netcoreapp3.1\POO.dll
+C:\Users\lylourenco\source\repos\POO\POO\obj\Debug\netcoreapp3.1\POO.pdb
+C:\Users\lylourenco\source\repos\POO\POO\obj\Debug\netcoreapp3.1\POO.genruntimeconfig.cache
