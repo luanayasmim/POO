@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\obj\Debug\netcoreapp3.1\exercicios.csproj.AssemblyReference.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\obj\Debug\netcoreapp3.1\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\obj\Debug\netcoreapp3.1\exercicios.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\obj\Debug\netcoreapp3.1\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\bin\Debug\netcoreapp3.1\exercicios.exe
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\bin\Debug\netcoreapp3.1\exercicios.deps.json
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.json
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\bin\Debug\netcoreapp3.1\exercicios.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\bin\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\bin\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\obj\Debug\netcoreapp3.1\exercicios.dll
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\obj\Debug\netcoreapp3.1\exercicios.pdb
+C:\Users\lylourenco\source\repos\bytebank\POO\exercicios\obj\Debug\netcoreapp3.1\exercicios.genruntimeconfig.cache

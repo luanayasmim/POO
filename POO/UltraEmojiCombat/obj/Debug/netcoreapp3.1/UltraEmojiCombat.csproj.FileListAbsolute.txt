@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\bin\Debug\netcoreapp3.1\UltraEmojiCombat.exe
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\bin\Debug\netcoreapp3.1\UltraEmojiCombat.deps.json
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\bin\Debug\netcoreapp3.1\UltraEmojiCombat.runtimeconfig.json
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\bin\Debug\netcoreapp3.1\UltraEmojiCombat.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\bin\Debug\netcoreapp3.1\UltraEmojiCombat.dll
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\bin\Debug\netcoreapp3.1\UltraEmojiCombat.pdb
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\obj\Debug\netcoreapp3.1\UltraEmojiCombat.csproj.AssemblyReference.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\obj\Debug\netcoreapp3.1\UltraEmojiCombat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\obj\Debug\netcoreapp3.1\UltraEmojiCombat.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\obj\Debug\netcoreapp3.1\UltraEmojiCombat.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\obj\Debug\netcoreapp3.1\UltraEmojiCombat.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\obj\Debug\netcoreapp3.1\UltraEmojiCombat.dll
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\obj\Debug\netcoreapp3.1\UltraEmojiCombat.pdb
+C:\Users\lylourenco\source\repos\bytebank\POO\UltraEmojiCombat\obj\Debug\netcoreapp3.1\UltraEmojiCombat.genruntimeconfig.cache

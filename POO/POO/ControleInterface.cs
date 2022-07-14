@@ -4,7 +4,7 @@ using System.Text;
 
 namespace POO
 {
-    interface ControleInterface
+    public interface ControleInterface
     {
         //A interface é a maneira que se interage com o objeto
 

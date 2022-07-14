@@ -74,6 +74,13 @@ namespace POO
             comer2.taComFome = false;
             comer2.PodeComer();
 
+            //Controle Remoto
+            Controle controle = new Controle();
+            controle.Ligar();
+            controle.AumentarVolume();
+            controle.AtivarMudo();
+            controle.AbrirMenu();
+
         }          
     }
 }

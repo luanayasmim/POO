@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POO", "POO\POO.csproj", "{8A2A91AF-B415-4804-984D-6F712C59DCFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banco", "banco\banco.csproj", "{D2B1C3B5-E142-4BB6-AF47-960D099B4195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "banco", "banco\banco.csproj", "{D2B1C3B5-E142-4BB6-AF47-960D099B4195}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UltraEmojiCombat", "UltraEmojiCombat\UltraEmojiCombat.csproj", "{AD3D3AD0-4BB2-4A6F-BFD3-5EBBA7F3B849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicios", "exercicios\exercicios.csproj", "{EEAD7474-A387-4952-9B75-C8D1C2738E38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{D2B1C3B5-E142-4BB6-AF47-960D099B4195}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2B1C3B5-E142-4BB6-AF47-960D099B4195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2B1C3B5-E142-4BB6-AF47-960D099B4195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3D3AD0-4BB2-4A6F-BFD3-5EBBA7F3B849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3D3AD0-4BB2-4A6F-BFD3-5EBBA7F3B849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3D3AD0-4BB2-4A6F-BFD3-5EBBA7F3B849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3D3AD0-4BB2-4A6F-BFD3-5EBBA7F3B849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEAD7474-A387-4952-9B75-C8D1C2738E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAD7474-A387-4952-9B75-C8D1C2738E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAD7474-A387-4952-9B75-C8D1C2738E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAD7474-A387-4952-9B75-C8D1C2738E38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
