@@ -1,0 +1,14 @@
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.exe
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.deps.json
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.json
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.dll
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.pdb
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.dll
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.pdb
+C:\Users\lylourenco\source\repos\bytebank\POO\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.genruntimeconfig.cache
