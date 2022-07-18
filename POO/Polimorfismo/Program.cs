@@ -24,7 +24,7 @@ namespace Polimorfismo
             Console.WriteLine(mamifero.CorDoPelo);
             mamifero.Alimentar();
             mamifero.Locomover();
-            mamifero.EmitirSom();8
+            mamifero.EmitirSom();
 
             //Reptil
             reptil.CorEscama = "Verde";
@@ -47,6 +47,19 @@ namespace Polimorfismo
             ave.Alimentar();
             ave.Locomover();
             ave.EmitirSom();
+
+            //Testando Sobrecarga
+            Cachorro cachorro1 = new Cachorro();
+            cachorro1.Reagir("Olá"); //Abanar e latir
+            cachorro1.Reagir("Vai apanhar"); //Rosnar
+            cachorro1.Reagir(11, 45); //Abanar
+            cachorro1.Reagir(21, 00); //Ignorar
+            cachorro1.Reagir(true); //Abanar
+            cachorro1.Reagir(false); //Rosnar
+            cachorro1.Reagir(2, 12.5f); //Latir
+            cachorro1.Reagir(17, 4.5f); //Rosnar
+
+
         }
     }
 }
