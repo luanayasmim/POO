@@ -1,0 +1,13 @@
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\bin\Debug\netcoreapp3.1\ProjetoYoutube.exe
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\bin\Debug\netcoreapp3.1\ProjetoYoutube.deps.json
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\bin\Debug\netcoreapp3.1\ProjetoYoutube.runtimeconfig.json
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\bin\Debug\netcoreapp3.1\ProjetoYoutube.runtimeconfig.dev.json
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\bin\Debug\netcoreapp3.1\ProjetoYoutube.dll
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\bin\Debug\netcoreapp3.1\ProjetoYoutube.pdb
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\obj\Debug\netcoreapp3.1\ProjetoYoutube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\obj\Debug\netcoreapp3.1\ProjetoYoutube.AssemblyInfoInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\obj\Debug\netcoreapp3.1\ProjetoYoutube.AssemblyInfo.cs
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\obj\Debug\netcoreapp3.1\ProjetoYoutube.csproj.CoreCompileInputs.cache
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\obj\Debug\netcoreapp3.1\ProjetoYoutube.dll
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\obj\Debug\netcoreapp3.1\ProjetoYoutube.pdb
+C:\Users\lylourenco\source\repos\bytebank\POO\ProjetoYoutube\obj\Debug\netcoreapp3.1\ProjetoYoutube.genruntimeconfig.cache
